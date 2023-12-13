@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Convertor from "./CurrencyConvertor";
+import './App.css';
+import Convertor from './CurrencyConvertor';
 
 function App() {
   return (
